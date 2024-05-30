@@ -1,0 +1,38 @@
+{
+  "CLIENTE": [
+    {
+      "id": 3,
+      "nombre": "Yazid",
+      "apellido": "Anguiano",
+      "telefono": "4432323232",
+      "rol": "CLIENTE",
+      "nombreUsuario": "Yazi",
+      "contrasena": "123",
+      "fechaNacimiento": "30/04/2006"
+    }
+  ],
+  "ASISTENTE": [
+    {
+      "id": 1,
+      "nombre": "Joshua",
+      "apellido": "Davalos",
+      "telefono": "4431013128",
+      "rol": "ASISTENTE",
+      "nombreUsuario": "Joshua",
+      "contrasena": "123",
+      "fechaNacimiento": "2005, 10, 20"
+    }
+  ],
+  "GERENTE": [
+    {
+      "id": 2,
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "telefono": "4432145863",
+      "rol": "GERENTE",
+      "nombreUsuario": "Juan",
+      "contrasena": "123",
+      "fechaNacimiento": "2000, 10, 24"
+    }
+  ]
+}
