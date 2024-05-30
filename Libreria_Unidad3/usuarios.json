@@ -2,37 +2,37 @@
   "CLIENTE": [
     {
       "id": 3,
-      "nombre": "Yazid",
-      "apellido": "Anguiano",
-      "telefono": "4432323232",
+      "nombre": "Jorge",
+      "apellido": "Morales",
+      "telefono": "4432345678",
       "rol": "CLIENTE",
-      "nombreUsuario": "Yazi",
+      "nombreUsuario": "jormo",
       "contrasena": "123",
-      "fechaNacimiento": "30/04/2006"
+      "fechaNacimiento": "30/05/2008"
     }
   ],
   "ASISTENTE": [
     {
       "id": 1,
-      "nombre": "Joshua",
-      "apellido": "Davalos",
-      "telefono": "4431013128",
+      "nombre": "Aaron",
+      "apellido": "Chava",
+      "telefono": "4431018982",
       "rol": "ASISTENTE",
-      "nombreUsuario": "Joshua",
+      "nombreUsuario": "Aaronch",
       "contrasena": "123",
-      "fechaNacimiento": "2005, 10, 20"
+      "fechaNacimiento": "23/10/2004"
     }
   ],
   "GERENTE": [
     {
       "id": 2,
-      "nombre": "Juan",
+      "nombre": "Daniel",
       "apellido": "Perez",
-      "telefono": "4432145863",
+      "telefono": "4432143563",
       "rol": "GERENTE",
-      "nombreUsuario": "Juan",
+      "nombreUsuario": "Daniperez",
       "contrasena": "123",
-      "fechaNacimiento": "2000, 10, 24"
+      "fechaNacimiento": "10/03/2000"
     }
   ]
-}
+} 
